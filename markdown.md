@@ -16,3 +16,8 @@
 
 ![image](pic.jpg)
 ![image](pic.gif)
+1. item 1
+2. item 2
+3. item 3
+    * Item 3A
+    * Item 3B
