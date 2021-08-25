@@ -21,3 +21,6 @@
 3. item 3
     * Item 3A
     * Item 3B
+2. item 1
+3. item 2
+1. item 3
